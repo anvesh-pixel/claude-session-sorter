@@ -1,0 +1,8 @@
+{
+  "name": "session-sorter",
+  "version": "0.2.0",
+  "description": "After the first response in a new Claude Code desktop session, asks which sidebar section to file the session under.",
+  "author": { "name": "anvesh-pixel" },
+  "repository": "https://github.com/anvesh-pixel/claude-session-sorter",
+  "license": "MIT"
+}

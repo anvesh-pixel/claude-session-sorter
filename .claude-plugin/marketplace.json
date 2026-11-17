@@ -1,0 +1,5 @@
+{
+  "name": "claude-session-sorter",
+  "owner": { "name": "anvesh-pixel" },
+  "plugins": [{ "name": "session-sorter", "source": "./" }]
+}
